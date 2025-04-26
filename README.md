@@ -1,14 +1,14 @@
-# Hi traveler, I'm João Borchoski
+# Hi there. You're in Vitor's profile!
 
-## ✨ About Me
-- ✅ Today I work as Software Development with a focus on mobile and backend
-- 📖 I'm currently learning Artificial Intelligence and Backend focused on efficiency
-- 🖥️ Technologies: React | Next | Angular | Flutter | Node.js | Express | Nest | Typescript 
+## ▶️ About Me
+- ✅ Currently graduating Sofware Engineering in Ponta Grossa's State University!
+- 📖 On this day I'm learning Javascript and C languages.
+- 🖥️ Technologies: Javascript | C | HTML | CSS |
 
 ## 🌎 Contact
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/JoaoBorchoski)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-henrique-borchoski/)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoborchoskidev@gmail.com) 
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorinacioborgesdev@gmail.com) 
  [![Whatzapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5542991141279) 
 
 ## Tech Area
