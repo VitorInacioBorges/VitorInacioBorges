@@ -20,5 +20,5 @@
  [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 
 ### 📃 Status: 
-[![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges)](https://github.com/VitorInacioBorges/github-readme-stats)
+[![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&showicons=true&theme=radical)](https://github.com/VitorInacioBorges/github-readme-stats)
 
