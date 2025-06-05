@@ -21,4 +21,5 @@
 
 ### 📃 Status: 
 [![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&showicons=true&theme=radical)](https://github.com/VitorInacioBorges/github-readme-stats)
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
