@@ -22,20 +22,13 @@
 <div align="center">
 <table>
   <tr>
-    <td>
      
 ### Github Stats:
 [![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&showicons=true&theme=dark&card_width=300)](https://github.com/VitorInacioBorges/github-readme-stats)
-     
-    </td>
-    <td>
     
 ### Most Used Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&card_width=300)](https://github.com/VitorInacioBorges/github-readme-stats)
 
-    </td>
   </tr>
 </table>
 </div>
-
----
