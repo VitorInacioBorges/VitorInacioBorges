@@ -12,12 +12,12 @@
  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5542998284565) 
 
 ### Main Stacks, Frameworks and Skills:
- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,c,js" />
+</div>
 
-## GitHub Stats
-
+### GitHub Stats:
+<div align="center">
 [![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorInacioBorges&layout=compact&theme=radical)
+</div>
