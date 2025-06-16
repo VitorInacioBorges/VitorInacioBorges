@@ -1,11 +1,11 @@
 # Hi there, I'm Vitor and this is my profile!
 
-## About Me:
-- ✅ Currently graduating Sofware Engineering in Ponta Grossa's State University!
-- 📖 On this day I'm learning Javascript and C languages.
-- 🖥️ Technologies: Javascript | C | HTML | CSS |
+### About Me:
+- 📈 Currently graduating Sofware Engineering in Ponta Grossa's State University!
+- 📖 Nowadays learning algorithms in Java language.
+- 🖥️ Technologies: Java | Javascript | C | HTML | CSS |
 
-## Contact Me:
+### Contact Me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitor.inaciob)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-inacio-borges/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorinacioborgesdev@gmail.com) 
