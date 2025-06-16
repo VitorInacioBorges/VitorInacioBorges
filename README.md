@@ -20,7 +20,7 @@
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 ### 📃 Status: 
-[![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&showicons=true)](https://github.com/VitorInacioBorges/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/VitorInacioBorges/github-readme-stats)
+[![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&showicons=true&theme=radical&height=20)](https://github.com/VitorInacioBorges/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/VitorInacioBorges/github-readme-stats)
 
 
