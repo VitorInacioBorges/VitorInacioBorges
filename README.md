@@ -22,5 +22,5 @@
 <div align="center">
  ## GitHub Stats
 </div>
-[![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&showicons=true&theme=dark&card_width=300)](https://github.com/VitorInacioBorges/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&card_width=300)](https://github.com/VitorInacioBorges/github-readme-stats)
+[![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorInacioBorges&layout=compact&theme=radical)
