@@ -1,6 +1,8 @@
 # Hi there, I'm Vitor and this is my profile!
 
+
 ### About Me:
+
 
 - 📈 Currently graduating Sofware Engineering in Ponta Grossa's State University!
 - 📖 Nowadays learning algorithms in Java language.
@@ -8,6 +10,7 @@
 
 
 ### Contact Me:
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitor.inaciob)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-inacio-borges/)
@@ -17,12 +20,14 @@
 
 ### Main Stacks, Frameworks and Skills:
 
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,c,js" />
 </div>
 
 
 ### GitHub Stats:
+
 
 [![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorInacioBorges&layout=compact&theme=radical)
