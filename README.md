@@ -19,9 +19,19 @@
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-### Github Stats: 
 <div align="center">
- [![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&showicons=true&theme=radical&card_width=300)](https://github.com/VitorInacioBorges/github-readme-stats)
- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&card_width=900)](https://github.com/VitorInacioBorges/github-readme-stats)
+<table>
+  <tr>
+    <td>
+### Github Stats:
+[![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&showicons=true&theme=dark&card_width=300)](https://github.com/VitorInacioBorges/github-readme-stats)
+    </td>
+    <td>
+### Most Used Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&card_width=300)](https://github.com/VitorInacioBorges/github-readme-stats)
+    </td>
+  </tr>
+</table>
 </div>
 
+---
