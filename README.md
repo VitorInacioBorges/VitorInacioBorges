@@ -13,8 +13,8 @@
 
 ## Main Stacks, Frameworks and Skills:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,c,js,nodejs" /> <br>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,c" /> <br>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,git,github" />
 </div>
 
 ## GitHub Stats:
