@@ -13,7 +13,7 @@
 
 ## Main Stacks, Frameworks and Skills:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,c" /> <br>
+  <img src="https://skillicons.dev/icons?i=java,html5,css3,c" /> <br>
   <img src="https://skillicons.dev/icons?i=js,nodejs,git,github" />
 </div>
 
