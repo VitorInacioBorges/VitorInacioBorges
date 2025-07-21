@@ -1,9 +1,9 @@
 # Vitor Inacio Borges's Profile
 
 ## • About Me:
-- 📈 Currently graduating Sofware Engineering in Ponta Grossa's State University!
-- 📖 Nowadays learning algorithms in Java language.
-- 🖥️ Technologies: Java | Javascript | C | HTML | CSS |
+📈 Currently graduating Sofware Engineering in Ponta Grossa's State University!
+📖 Nowadays learning algorithms in Java language.
+🖥️ Technologies: Java | Javascript | C | HTML | CSS |
 
 ## • Contact Me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitor.inaciob)
