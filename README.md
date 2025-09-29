@@ -13,8 +13,8 @@
 
 ## • Languages, Frameworks and Skills:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,c" /> <br>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,c,js" /> <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,git,github,php" />
 </div>
 
 ## • GitHub Stats:
