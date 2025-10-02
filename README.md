@@ -2,8 +2,8 @@
 
 ## • About Me:
 - 📈 Currently graduating Sofware Engineering in Ponta Grossa's State University!
-- 📖 Nowadays learning algorithms in Java language.
-- 🖥️ Technologies: Java | Javascript | C | HTML | CSS |
+- 📖 Nowadays learning MongoDB database and trying to do a PHP API with PostgreSQL.
+- 🖥️ Very interested by the tech industry and trying to learn more everyday.
 
 ## • Contact Me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitor.inaciob)
@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorinacioborgesdev@gmail.com) 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5542998284565)
 
-## • Languages, Frameworks and Skills:
+## • Tech Stack:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,c,js" /> <br>
   <img src="https://skillicons.dev/icons?i=mongodb,nodejs,git,github,php" />
