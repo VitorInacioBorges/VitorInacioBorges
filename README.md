@@ -13,8 +13,8 @@
 
 ## • Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postgresql,js,php,laravel,html" /> <br>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,mongodb,nodejs,c,java,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,mongodb,html,laravel,postgresql" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,php,ubuntu,c,css,linux" />
 </div>
 
 ## • GitHub Stats:
