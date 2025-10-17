@@ -14,7 +14,7 @@
 ## • Tech Stack:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,js,nodejs,mongodb,html,laravel,postgresql" /> <br>
-  <img src="https://skillicons.dev/icons?i=git,github,php,apache,c,css,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,php,apache2,c,css,linux" />
 </div>
 
 ## • GitHub Stats:
