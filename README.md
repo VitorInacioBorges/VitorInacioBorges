@@ -6,10 +6,14 @@
 - 🖥️ Very interested by the tech industry and trying to learn more everyday.
 
 ## • Contact Me:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,mongodb,html,laravel,postgresql" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,php,ubuntu,c,css,linux" />
+</div>
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/vitor.inaciob)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-inacio-borges/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorinacioborgesdev@gmail.com) 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5542998284565)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vitor-inacio-borges/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vitorinacioborgesdev@gmail.com) 
+[![Whatsapp](https://skillicons.dev/icons?i=whatsapp)](https://wa.me/+5542998284565)
 
 ## • Tech Stack:
 <div align="center">
