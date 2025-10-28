@@ -6,7 +6,7 @@
 - 🖥️ Very interested by the tech industry and trying to learn more everyday.
 
 ## • Contact Me:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitor.inaciob)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/vitor.inaciob)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-inacio-borges/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorinacioborgesdev@gmail.com) 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5542998284565)
