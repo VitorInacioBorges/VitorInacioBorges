@@ -6,11 +6,11 @@
 - 🖥️ Very interested by the tech industry and trying to learn more everyday.
 
 ## • Contact Me:
-
+<div align="center">
 <a href="https://instagram.com/vitor.inaciob"> <img src="https://skillicons.dev/icons?i=instagram" /> </a>
 <a href="https://www.linkedin.com/in/vitor-inacio-borges/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
 <a href="mailto:vitorinacioborgesdev@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a>
-
+</div>
 
 ## • Tech Stack:
 <div align="center">
