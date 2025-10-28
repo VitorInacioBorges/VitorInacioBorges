@@ -7,13 +7,11 @@
 
 ## • Contact Me:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,mongodb,html,laravel,postgresql" /> <br>
-  <img src="https://skillicons.dev/icons?i=git,github,php,ubuntu,c,css,linux" />
+  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/vitor.inaciob)
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vitor-inacio-borges/)
+  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vitorinacioborgesdev@gmail.com) 
+  [![Whatsapp](https://skillicons.dev/icons?i=whatsapp)](https://wa.me/+5542998284565)
 </div>
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/vitor.inaciob)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vitor-inacio-borges/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vitorinacioborgesdev@gmail.com) 
-[![Whatsapp](https://skillicons.dev/icons?i=whatsapp)](https://wa.me/+5542998284565)
 
 ## • Tech Stack:
 <div align="center">
