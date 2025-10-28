@@ -7,8 +7,8 @@
 
 ## • Contact Me:
 
-<a href="https://instagram.com/vitor.inaciob"> <img src="https://skillicons.dev/icons?i=instagram" width="45" style="margin: 0 10px;/> </a>
-<a href="https://www.linkedin.com/in/vitor-inacio-borges/"> <img src="https://skillicons.dev/icons?i=linkedin" width="45" style="margin: 0 10px;/> </a>
+<a href="https://instagram.com/vitor.inaciob"> <img src="https://skillicons.dev/icons?i=instagram" /> </a>
+<a href="https://www.linkedin.com/in/vitor-inacio-borges/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
 <a href="mailto:vitorinacioborgesdev@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a>
 
 
