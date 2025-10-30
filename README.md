@@ -15,16 +15,10 @@
 </div>
 
 ### 💾 Tech Stack:
-#### 📄 Languages:
+#### ⚙️ Languages, Frameworks and Tools:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,js" /> <br>
-  <img src="https://skillicons.dev/icons?i=c,html,css" /> <br>
-</div>
-
-#### ⚙️ Frameworks and Tools:
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux" /> <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postgresql" /> <br>
+  <img src="https://skillicons.dev/icons?i=java,php,js,git,github,postman,linux" /> <br>
+  <img src="https://skillicons.dev/icons?i=c,html,css,nodejs,mongodb,express,postgresql" /> <br>
 </div>
 
 ### 📈 GitHub Stats:
