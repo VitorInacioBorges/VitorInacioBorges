@@ -16,8 +16,10 @@
 
 ## • Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,mongodb,html,express,postgresql" /> <br>
-  <img src="https://skillicons.dev/icons?i=git,github,php,ubuntu,c,css,linux" />
+  ### Languages:
+  <img src="https://skillicons.dev/icons?i=java,js,php,c,html,css" /> <br>
+  ### Framworks and Tools:
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,ubuntu,mongodb,express,linux,postgresql" />
 </div>
 
 ## • GitHub Stats:
