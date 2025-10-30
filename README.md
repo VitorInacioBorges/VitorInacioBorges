@@ -15,10 +15,13 @@
 </div>
 
 ## • Tech Stack:
+### Languages:
 <div align="center">
-  ### Languages:
   <img src="https://skillicons.dev/icons?i=java,js,php,c,html,css" /> <br>
-  ### Framworks and Tools:
+</div>
+
+### Frameworks and Tools:
+<div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,nodejs,ubuntu,mongodb,express,linux,postgresql" />
 </div>
 
