@@ -16,12 +16,12 @@
 
 ## • Tech Stack:
 ### Languages:
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=java,js,php,c,html,css" /> <br>
 </div>
 
 ### Frameworks and Tools:
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,nodejs,ubuntu,mongodb,express,linux,postgresql" />
 </div>
 
