@@ -17,12 +17,14 @@
 ### 💾 Tech Stack:
 #### 📄 Languages:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,php,c,html,css" /> <br>
+  <img src="https://skillicons.dev/icons?i=java,php,js" /> <br>
+  <img src="https://skillicons.dev/icons?i=c,html,css" /> <br>
 </div>
 
 #### ⚙️ Frameworks and Tools:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,nodejs,ubuntu,mongodb,express,linux,postgresql" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postgresql" />
 </div>
 
 ### 📈 GitHub Stats:
