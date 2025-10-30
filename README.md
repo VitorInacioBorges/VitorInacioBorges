@@ -17,8 +17,8 @@
 ### 💾 Tech Stack:
 #### ⚙️ Languages, Frameworks and Tools:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,js,git,github,postman,linux" /> <br>
-  <img src="https://skillicons.dev/icons?i=c,html,css,nodejs,mongodb,express,postgresql" /> <br>
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,postman,github,linux" /> <br>
+  <img src="https://skillicons.dev/icons?i=c,php,git,express,mongodb,postgresql" /> <br>
 </div>
 
 ### 📈 GitHub Stats:
