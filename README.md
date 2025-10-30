@@ -23,8 +23,8 @@
 
 #### ⚙️ Frameworks and Tools:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux" />
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postgresql" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux" /> <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postgresql" /> <br>
 </div>
 
 ### 📈 GitHub Stats:
