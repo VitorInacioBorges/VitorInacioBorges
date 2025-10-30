@@ -1,6 +1,6 @@
-# *Vitor Inacio Borges's Profile*
+## *Vitor Inacio Borges's Profile*
 
-## 👔 About Me:
+### 👔 About Me:
 ```bash
 # currently graduating Sofware Engineering in Ponta Grossa's State University!
 # nowadays learning MongoDB database and trying to do a PHP API with PostgreSQL.
