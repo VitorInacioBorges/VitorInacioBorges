@@ -21,9 +21,6 @@
   <img src="https://skillicons.dev/icons?i=c,php,git,express,mongodb,postgresql" /> <br>                     
 </div>
 
-#### 🧩 Principles: 
-##### - Hello
-
 ### 📈  GitHub Stats:
 [![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorInacioBorges&layout=compact&theme=dark)
