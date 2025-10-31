@@ -1,4 +1,4 @@
-## *Vitor Inacio Borges's Profile*
+<h1 align="center"> Vitor Inacio </h1>
 
 ### 👔  About Me:
 ```javascript
@@ -20,20 +20,9 @@
   <img src="https://skillicons.dev/icons?i=java,js,nodejs,postman,github,linux" /> <br>                      
   <img src="https://skillicons.dev/icons?i=c,php,git,express,mongodb,postgresql" /> <br>                     
 </div>
-<div align="right">
-  <p>
-    - Clean Architecture and Domain-Driven Design
-    - 
-  </p>
-</div>
 
 #### 🧩 Principles: 
-<div align="right">
-  <p>
-    - Clean Architecture and Domain-Driven Design
-    - 
-  </p>
-</div>
+##### - Hello
 
 ### 📈  GitHub Stats:
 [![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
