@@ -15,26 +15,30 @@
 </div>
 
 ### 💾  Tech Stack:
-#### ⚙️ Languages, Frameworks and Tools:
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,postman,github,linux" /> <br>
-  <img src="https://skillicons.dev/icons?i=c,php,git,express,mongodb,postgresql" /> <br>
+#### ⚙️ Languages, Frameworks and Tools:        
+<div align="left">                                                                                           
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,postman,github,linux" /> <br>                      
+  <img src="https://skillicons.dev/icons?i=c,php,git,express,mongodb,postgresql" /> <br>                     
 </div>
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<!-- Tech Stack + Principles lado a lado -->
+<table>
+  <tr>
+    <!-- Coluna 1: Tech Stack -->
+    <td align="left" width="50%">
+      
+### 🧠 Tech Stack  
+#### 💻 Languages, Frameworks and Tools:
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,postman,github,linux" />
+<br>
+<img src="https://skillicons.dev/icons?i=c,php,git,express,mongodb,postgresql" />
 
-  <!-- Coluna 1: Tech Stack -->
-  <div style="flex: 1;">
-    <h3>🧠 Tech Stack</h3>
+    </td>
 
-    <p><b>Languages, Frameworks and Tools:</b></p>
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,java,php,postgres,linux" alt="Tech Stack"/>
-  </div>
-
-  <!-- Coluna 2: Principles -->
-  <div style="flex: 1;">
-    <h3>💡 Principles</h3>
-
+    <!-- Coluna 2: Principles -->
+    <td align="left" width="50%">
+      
+### ✳️ Principles
 - Clean Architecture & Domain-Driven Design  
 - Event-driven communication (Kafka)  
 - Idempotent and resilient message processing  
@@ -43,9 +47,9 @@
 - Atlas Search and MongoDB aggregation pipelines  
 - Exploring functional design with Clojure & Datomic  
 
-  </div>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 ### 📈  GitHub Stats:
 [![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
