@@ -23,5 +23,5 @@
 </div>
 
 ### 📈  GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)(https://github.com/anuraghazra/github-readme-stats)
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorInacioBorges&layout=compact&theme=dark)
