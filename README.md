@@ -1,5 +1,5 @@
 <h1 align="center"> Vitor Inacio </h1>
-<h3 align="center"> NodeJS • Express • MongoDB • PHP • PostgreSQL • C</h3>
+<h3 align="center"> NodeJS • Express • MongoDB • Laravel • PostgreSQL • C</h3>
 
 ### 👔  About Me:
 ```javascript
