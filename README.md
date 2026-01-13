@@ -14,21 +14,21 @@
 ### 🌐 Contact Me:
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="mailto:vitorinacioborgesdev@gmail.com">
         <img 
             alt="gmail" 
             title="Gmail" 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         /> 
     </a>  
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://www.linkedin.com/in/vitor-inacio-borges/">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         /> 
     </a> 
-    <a href="https://github.com/VitorInacioBorges?tab=commits">
+    <a href="https://steamcommunity.com/id/viquetinho_/">
         <img 
             alt="steam" 
             title="Steam" 
