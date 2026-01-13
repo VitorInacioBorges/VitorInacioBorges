@@ -5,11 +5,10 @@
 ### 👔 About Me:
 
 ```bash
-/*
-Currently graduating Sofware Engineering in Ponta Grossas State University!
-Nowadays learning MongoDB database and trying to do a PHP API with PostgreSQL.
-Very interested by the tech industry and trying to learn more everyday.
-*/
+// Currently graduating Sofware Engineering in Ponta Grossas State University.
+// Nowadays I am: making personal projects and developing a laravel web application for scientific research purposes.
+// Specialized in NodeJS, C, Laravel and Java.
+// Very interested by the tech industry and trying to learn more everyday.
 ```
 
 ### 🌐 Contact Me:
