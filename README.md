@@ -4,7 +4,7 @@
 
 ### 👔 About Me:
 
-```bash
+```js
 // Currently graduating Sofware Engineering in Ponta Grossas State University.
 // Nowadays I am: making personal projects and developing a laravel web application for scientific research purposes.
 // Specialized in NodeJS, C, Laravel and Java.
