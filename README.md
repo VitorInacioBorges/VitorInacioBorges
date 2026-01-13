@@ -5,11 +5,12 @@
 ### 👔 About Me:
 
 ```bash
-// Currently graduating Sofware Engineering in Ponta Grossas State University!
-// Nowadays learning MongoDB database and trying to do a PHP API with PostgreSQL.
-// Very interested by the tech industry and trying to learn more everyday.
+/*
+Currently graduating Sofware Engineering in Ponta Grossas State University!
+Nowadays learning MongoDB database and trying to do a PHP API with PostgreSQL.
+Very interested by the tech industry and trying to learn more everyday.
+*/
 ```
-
 
 ### 🌐 Contact Me:
 
@@ -19,32 +20,30 @@
             alt="gmail" 
             title="Gmail" 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a> 
+        /> 
+    </a>  
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
+        /> 
+    </a> 
     <a href="https://github.com/VitorInacioBorges?tab=commits">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
-        />
-    </a>
+        /> 
+    </a> 
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
             alt="instagram" 
             title="Instagram" 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
+        /> 
+    </a> 
 </p>
-
----
 
 ### 💾 Tech Stack:
 
@@ -147,8 +146,6 @@
 
 <br>
 <br>
-
----
 
 ### 📊 Statistics:
 
