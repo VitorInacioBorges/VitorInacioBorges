@@ -30,12 +30,12 @@
     </a> 
     <a href="https://github.com/VitorInacioBorges?tab=commits">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="steam" 
+            title="Steam" 
             src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
         /> 
     </a> 
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.instagram.com/vitor.inaciob/">
         <img 
             alt="instagram" 
             title="Instagram" 
