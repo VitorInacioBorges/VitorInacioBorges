@@ -88,6 +88,14 @@
 />
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
     alt="SQL"
     title="SQL" 
     width="42px" 
@@ -179,6 +187,14 @@
     width="42px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CMake" 
+    title="CMake"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" 
 />
 
 <br>
