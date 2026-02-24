@@ -218,19 +218,6 @@
 
 ### 📊 Statistics:
 
-<p>
-  <img 
-    align="left"
-    alt="GitHub Stats" 
-    src="https://github-readme-stats-fast.vercel.app/api?username=VitorInacioBorges&show_icons=true&theme=tokyonight" 
-  />
-
-<img 
-      align="left"
-      alt="GitHub Stats" 
-      height="500"
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorInacioBorges&theme=tokyonight)](https://github.com/VitorInacioBorges/github-readme-stats" 
-  />
-
-</p>
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorInacioBorges)](https://github.com/VitorInacioBorges/github-readme-stats)
+![VitorInacioBorges's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=VitorInacioBorges&show_icons=true&theme=transparent)
 
