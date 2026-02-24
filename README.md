@@ -236,6 +236,6 @@
 
 </p>
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=VitorInacioBorges&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorInacioBorges&theme=dark)](https://github.com/VitorInacioBorges/github-readme-stats)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=VitorInacioBorges&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorInacioBorges&theme=tokyonight)](https://github.com/VitorInacioBorges/github-readme-stats)
 
