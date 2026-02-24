@@ -218,6 +218,6 @@
 
 ### 📊 Statistics:
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorInacioBorges)](https://github.com/VitorInacioBorges/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorInacioBorges&theme=transparent)](https://github.com/VitorInacioBorges/github-readme-stats)
 ![VitorInacioBorges's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=VitorInacioBorges&show_icons=true&theme=transparent)
 
