@@ -11,7 +11,6 @@
 // Very interested by the tech industry and trying to learn more everyday.
 ```
 
-<br>
 
 ### 🌐 Contact Me:
 
@@ -46,7 +45,6 @@
     </a> 
 </p>
 
-<br>
 
 ### 💾 I Code With:
 
