@@ -236,11 +236,35 @@
 />
 <img 
     align="left" 
+    alt="DBeaver" 
+    title="DBeaver"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VSCode" 
+    title="VSCode"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Postman" 
     title="Postman"
     width="42px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Windows" 
+    title="Windows"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
 />
 <img 
     align="left" 
