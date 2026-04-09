@@ -129,6 +129,8 @@
 
 <br>
 <br>
+<br>
+<br>
 
 ### 🛠 Tools, Platforms & Databases:
 
@@ -237,6 +239,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
 />
 
+<br>
+<br>
 <br>
 <br>
 
