@@ -46,7 +46,7 @@
 </p>
 
 
-### 💾 I Code With:
+### 💾 Languages:
 
 <img 
     align="left" 
@@ -131,7 +131,6 @@
 
 <br>
 <br>
-<br>
 
 ### 🛠 Databases:
 
@@ -151,6 +150,9 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
+
+<br>
+<br>
 
 ### Frameworks & Runtime Environments:
 
@@ -218,6 +220,9 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
 />
+
+<br>
+<br>
 
 ### Tools & Operating Systems:
 
