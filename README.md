@@ -133,24 +133,8 @@
 <br>
 <br>
 
-### 🛠 Tools, Platforms & Databases:
+### 🛠 Databases:
 
-<img 
-    align="left" 
-    alt="NodeJS"
-    title="NodeJS" 
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Express"
-    title="Express" 
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
 <img 
     align="left" 
     alt="PostgreSQL" 
@@ -161,52 +145,15 @@
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
     alt="MongoDB" 
     title="MongoDB"
     width="42px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Jest"
-    title="Jest" 
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Ubuntu" 
-    title="Ubuntu"
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
-/>
+
+### Frameworks & Runtime Environments:
+
 <img 
     align="left" 
     alt="CMake" 
@@ -238,6 +185,65 @@
     width="42px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NodeJS"
+    title="NodeJS" 
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Express"
+    title="Express" 
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Jest"
+    title="Jest" 
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
+/>
+
+### Tools & Operating Systems:
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Ubuntu" 
+    title="Ubuntu"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
 />
 
 <br>
