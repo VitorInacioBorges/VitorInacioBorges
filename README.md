@@ -11,6 +11,8 @@
 // Very interested by the tech industry and trying to learn more everyday.
 ```
 
+<br>
+
 ### 🌐 Contact Me:
 
 <p align="left">
@@ -43,6 +45,8 @@
         /> 
     </a> 
 </p>
+
+<br>
 
 ### 💾 I Code With:
 
@@ -127,7 +131,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
-<br>
 <br>
 <br>
 <br>
@@ -239,7 +242,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
 />
 
-<br>
 <br>
 <br>
 <br>
