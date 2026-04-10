@@ -238,6 +238,14 @@
 />
 <img 
     align="left" 
+    alt="IntelliJ" 
+    title="IntelliJ"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Windows" 
     title="Windows"
     width="42px" 
