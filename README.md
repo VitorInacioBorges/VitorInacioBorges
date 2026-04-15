@@ -132,7 +132,7 @@
 <br>
 <br>
 
-### Frameworks & Runtime Environments:
+### 💿 Frameworks & Runtime Environments:
 
 <img 
     align="left" 
@@ -202,7 +202,7 @@
 <br>
 <br>
 
-### Tools & Operating Systems:
+### 🔩 Tools & Operating Systems:
 
 <img 
     align="left" 
