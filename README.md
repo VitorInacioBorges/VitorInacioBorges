@@ -1,14 +1,14 @@
 # 🖥️ Vitor Inacio Borges
 
-**`</>`** **`Backend Developer`** **`</>`** **`Software Engineer`** **`</>`**
+**`</>`** **`FullStack Developer`** **`</>`** **`Software Engineer`** **`</>`** **`Web Development Specialist`** **`</>`**
 
 ### 👔 About Me:
 
 ```js
 // Currently graduating Sofware Engineering in Ponta Grossas State University.
 // Nowadays I am: making personal projects and developing a laravel web application for scientific research purposes.
-// Looking for my first job opportunity. Specialized in NodeJS, C, Laravel and Java.
-// Very interested by the tech industry and trying to learn more everyday.
+// Specialized in NodeJS, Javascript, Typescript, React, PostgreSQL and NestJS.
+// Very interested by the tech industry, especially AI based applications and web development.
 ```
 
 
