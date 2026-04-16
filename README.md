@@ -53,7 +53,7 @@
     alt="Typescript"
     title="Typescript" 
     width="42px" 
-    style="padding-right: 10px;" 
+    style="padding: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
@@ -61,7 +61,7 @@
     alt="JavaScript" 
     title="JavaScript"
     width="42px" 
-    style="padding-right: 10px;" 
+    style="padding: 10px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
@@ -69,7 +69,7 @@
     alt="PHP" 
     title="PHP"
     width="42px" 
-    style="padding-right: 10px;" 
+    style="padding: 10px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
@@ -77,7 +77,7 @@
     alt="Java" 
     title="Java"
     width="42px" 
-    style="padding-right: 10px;" 
+    style="padding: 10px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
