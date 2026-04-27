@@ -8,7 +8,7 @@
 // Currently graduating Sofware Engineering in Ponta Grossas State University.
 // Nowadays I am: making personal projects and developing a laravel web application for scientific research purposes.
 // Specialized in NodeJS, Javascript, Typescript, React, PostgreSQL and NestJS.
-// Very interested by the tech industry, especially AI based applications and web development.
+// Not attached with an especific stack. Always searching for the one who will solve the problem the best way possible.
 ```
 
 
