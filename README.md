@@ -45,10 +45,6 @@
     </a> 
 </p>
 
-![VitorInacioBorges's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&show_icons=true&theme=transparent&width=700)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorInacioBorges&layout=pie&theme=transparent&langs_count=8)](https://github.com/VitorInacioBorges/github-readme-stats)
-
-
 ### 💾 Programming & Declarative Languages:
 
 <img 
@@ -292,6 +288,5 @@
 
 ### 📊 Statistics:
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorInacioBorges&layout=pie&theme=transparent&langs_count=8)](https://github.com/VitorInacioBorges/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorInacioBorges&layout=compact&theme=transparent&langs_count=8)](https://github.com/VitorInacioBorges/github-readme-stats)
 ![VitorInacioBorges's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&show_icons=true&theme=transparent&width=700)
