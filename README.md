@@ -292,4 +292,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorInacioBorges&layout=pie&theme=transparent&langs_count=8)](https://github.com/VitorInacioBorges/github-readme-stats)
 ![VitorInacioBorges's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorInacioBorges&show_icons=true&theme=transparent&width=700)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
