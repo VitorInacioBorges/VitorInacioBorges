@@ -1,6 +1,7 @@
 # 🖥️ Vitor Inacio Borges
 
 **`</>`** **`FullStack Developer`** **`</>`** **`Software Engineer`** **`</>`** **`Web Development Specialist`** **`</>`**
+![](https://komarev.com/ghpvc/?username=VitorInacioBorges)
 
 ### 👔 About Me:
 
