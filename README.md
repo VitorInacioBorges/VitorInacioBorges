@@ -288,5 +288,4 @@
 
 ### 📊 Statistics:
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorInacioBorges&layout=compact&theme=transparent&langs_count=10&width=1000)](https://github.com/VitorInacioBorges/github-readme-stats)
-![VitorInacioBorges's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=VitorInacioBorges&show_icons=true&theme=transparent&width=700)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorInacioBorges&layout=compact&theme=transparent&langs_count=10&card_width=1000px)](https://github.com/VitorInacioBorges/github-readme-stats)
