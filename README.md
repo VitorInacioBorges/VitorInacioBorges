@@ -288,4 +288,4 @@
 
 ### 📊 Statistics:
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorInacioBorges&layout=compact&theme=transparent&langs_count=20)](https://github.com/VitorInacioBorges/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorInacioBorges&layout=donut&theme=transparent&langs_count=20)](https://github.com/VitorInacioBorges/github-readme-stats)
