@@ -267,6 +267,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
 />
+<img 
+    align="left" 
+    alt="PowerShell" 
+    title="PowerShell"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 
+/>
 
 <br>
 <br>
