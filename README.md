@@ -259,6 +259,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Bash" 
+    title="Bash"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
 
 <br>
 <br>
