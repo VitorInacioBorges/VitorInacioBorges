@@ -45,7 +45,7 @@
     </a> 
 </p>
 
-### 💾 Programming & Declarative Languages:
+### 💾 Languages:
 
 <img 
     align="left" 
@@ -225,7 +225,7 @@
 <br>
 <br>
 
-### 🔩 Tools & Operating Systems:
+### 🔩 Tools & OSs:
 
 <img 
     align="left" 
@@ -298,6 +298,15 @@
     width="42px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg
+" 
 />
 
 <br>
