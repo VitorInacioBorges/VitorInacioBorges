@@ -131,7 +131,7 @@
 <br>
 <br>
 
-### 💿 Frameworks & Runtime Environments:
+### 💿 Frameworks, REs, Libs & Packages:
 
 <img 
     align="left" 
