@@ -1,18 +1,83 @@
 # Vitor Inacio Borges
 
-**`shell\sys::\\wsl.localhost\Ubuntu\home\vitor\folders>`** **`mylife -position [FullStack Developer, Software Engineer, Web Developer]`**
+**`</>`** **`mylife -position [FullStack Developer, Software Engineer, Web Developer]`**
 
-### 👔 About Me:
+## 👔 About Me:
 
-```bash
-# Currently graduating Sofware Engineering in Ponta Grossas State University.
-# Nowadays I am: making personal projects and developing a laravel web application for scientific research purposes.
-# Specialized in NodeJS, Javascript, Typescript, React, PostgreSQL and NestJS.
-# Not attached with an especific stack. Always searching for the one who will solve the problem the best way possible.
-```
+I'm a Software Engineer passionate about scalable, maintanable, data consuming applications and web products.
+
+My experience covers REST APIs, Web Development around **Typescript**, **Javascript** and **PHP** products, Data Engineering with **Python**, **Numpy**, **Pandas** and **Jupyter** and Machine Learning. I am particularly interested in:
+
+- AI Enhanced Engineering
+- Machine Learning Procedures
+- Data Engineering 
+- Software Architecture Position
+- Domain-Driven Design (DDD)
+- Engineering Leadership
+
+On my free time I enjoy getting to know AI tools properly by searching for technical literature about **subagents**, **sessions**, **skills**, **harnesses**, **neural networks**, **reinforcement learning**, **AI philosophy and history** and **data structure**. Reading is also one of my hobbies, as I have read famous titles such as **Pragmatic Programmer** (Andrew Hunt), **Grokking Algorithms** (Barghava) and **Real Software Development** (Warburton).
+
 ---
 
-### 🌐 Contact Me:
+## 💾 Tech Stack:
+
+### Backend, Frontend and Architecture
+
+<img 
+    align="center" 
+    alt="Programming"
+    title="Programming" 
+    style="padding: 10px;" 
+    src="https://skillicons.dev/icons?i=js,ts,php,nestjs,nodejs,laravel,react,vite,prisma"
+/>
+
+- PHP
+- Typescript
+- Javascript
+- Model View Controller (MVC) Pattern
+- Clean Code
+- Clean Architecture
+- REST APIs
+- Spec-Driven Design (SDD)
+- Test-Driven Design (TDD)
+
+### Data & AI
+
+<img 
+    align="center" 
+    alt="Data"
+    title="TechStack" 
+    style="padding: 10px;" 
+    src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,pytorch,py"
+/>
+
+- MongoDB
+- PostgreSQL
+- MySQL
+- Multi-Threading Handling
+- I/O-bound Handling
+- Data Extraction, Transformation and Loading (ETL)
+- Claude Code / Claude CLI
+- Codex / Codex CLI
+
+### DevOps & Tools
+
+<img 
+    align="center" 
+    alt="TechStack"
+    title="TechStack" 
+    style="padding: 10px;" 
+    src="https://skillicons.dev/icons?i=docker,linux,ubuntu,postman,"
+/>
+
+- Docker
+- Windows Subsystem for Linux (WSL)
+- Linux
+- Postman
+
+---
+
+## 🌐 Contact Me:
 
 <p align="left">
     <a href="mailto:vitorinacioborgesdev@gmail.com">
@@ -37,21 +102,3 @@
         /> 
     </a> 
 </p>
-
-### 💾 Tech Stack:
-
-<img 
-    align="left" 
-    alt="TechStack"
-    title="TechStack" 
-    style="padding: 10px;" 
-    src="https://skillicons.dev/icons?i=js,ts,py,nestjs,nodejs,mongodb,postgres,docker,linux,ubuntu"
-/>
-
-<br>
-<br>
-<br>
-
-### 📊 Statistics:
-
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorInacioBorges&layout=compact&theme=transparent&langs_count=20)](https://github.com/VitorInacioBorges/github-readme-stats)
