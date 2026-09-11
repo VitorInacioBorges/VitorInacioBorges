@@ -1,8 +1,6 @@
 # Vitor Inacio Borges
 
-**`</>`** **`FullStack Developer`** **`</>`** **`Software Engineer`** **`</>`** **`Web Development Specialist`** **`</>`**
-
----
+**`shell\sys::\\wsl.localhost\Ubuntu\home\vitor\folders>`** **`mylife -position [FullStack Developer, Software Engineer, Web Developer]`**
 
 ### 👔 About Me:
 
@@ -12,7 +10,7 @@
 # Specialized in NodeJS, Javascript, Typescript, React, PostgreSQL and NestJS.
 # Not attached with an especific stack. Always searching for the one who will solve the problem the best way possible.
 ```
-
+---
 
 ### 🌐 Contact Me:
 
