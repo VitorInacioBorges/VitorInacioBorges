@@ -81,22 +81,6 @@
 />
 <img 
     align="left" 
-    alt="C Language" 
-    title="C Language"
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="42px" 
@@ -111,36 +95,12 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
 />
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
 
 <br>
 <br>
 
 ### 💿 Frameworks, REs, Libs & Packages:
 
-<img 
-    align="left" 
-    alt="CMake" 
-    title="CMake"
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" 
-/>
 <img 
     align="left" 
     alt="NestJS" 
@@ -175,35 +135,11 @@
 />
 <img 
     align="left" 
-    alt="Express"
-    title="Express" 
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Laravel" 
     title="Laravel"
     width="42px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Jest"
-    title="Jest" 
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="TailwindCSS"
-    title="TailwindCSS" 
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
     align="left" 
@@ -274,14 +210,6 @@
     width="42px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="IntelliJ" 
-    title="IntelliJ"
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
 />
 <img 
     align="left" 
