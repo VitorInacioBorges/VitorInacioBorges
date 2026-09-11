@@ -51,7 +51,6 @@
     align="left" 
     alt="Typescript"
     title="Typescript" 
-    width="42px" 
     style="padding: 10px;" 
     src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma" 
 />
