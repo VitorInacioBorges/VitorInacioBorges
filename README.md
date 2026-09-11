@@ -1,14 +1,16 @@
-# 🖥️ Vitor Inacio Borges
+# Vitor Inacio Borges
 
 **`</>`** **`FullStack Developer`** **`</>`** **`Software Engineer`** **`</>`** **`Web Development Specialist`** **`</>`**
 
+---
+
 ### 👔 About Me:
 
-```js
-// Currently graduating Sofware Engineering in Ponta Grossas State University.
-// Nowadays I am: making personal projects and developing a laravel web application for scientific research purposes.
-// Specialized in NodeJS, Javascript, Typescript, React, PostgreSQL and NestJS.
-// Not attached with an especific stack. Always searching for the one who will solve the problem the best way possible.
+```bash
+# Currently graduating Sofware Engineering in Ponta Grossas State University.
+# Nowadays I am: making personal projects and developing a laravel web application for scientific research purposes.
+# Specialized in NodeJS, Javascript, Typescript, React, PostgreSQL and NestJS.
+# Not attached with an especific stack. Always searching for the one who will solve the problem the best way possible.
 ```
 
 
@@ -19,28 +21,21 @@
         <img 
             alt="gmail" 
             title="Gmail" 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+            src="https://skillicons.dev/icons?i=gmail"
         /> 
     </a>  
     <a href="https://www.linkedin.com/in/vitor-inacio-borges/">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        /> 
-    </a> 
-    <a href="https://steamcommunity.com/id/viquetinho_/">
-        <img 
-            alt="steam" 
-            title="Steam" 
-            src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
+            src="https://skillicons.dev/icons?i=linkedin"
         /> 
     </a> 
     <a href="https://www.instagram.com/vitor.inaciob/">
         <img 
             alt="instagram" 
             title="Instagram" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            src="https://skillicons.dev/icons?i=instagram"
         /> 
     </a> 
 </p>
