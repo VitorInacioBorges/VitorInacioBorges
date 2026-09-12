@@ -25,10 +25,75 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
 
 <img 
     align="center" 
-    alt="Programming"
-    title="Programming" 
-    style="padding: 10px;" 
-    src="https://skillicons.dev/icons?i=js,ts,php,nestjs,nodejs,laravel,react,vite,prisma"
+    alt="Javascript"
+    title="Javascript" 
+    width=42px;
+    style="padding: 25px;" 
+    src="https://cdn.svglogos.dev/logos/javascript.svg"
+/>
+<img 
+    align="center" 
+    alt="Typescript"
+    title="Typescript" 
+    width=42px;
+    style="padding: 25px;" 
+    src="https://cdn.svglogos.dev/logos/typescript-icon.svg"
+/>
+<img 
+    align="center" 
+    alt="PHP"
+    title="PHP" 
+    width=42px;
+    style="padding: 25px;" 
+    src="https://skillicons.dev/icons?i=php"
+/>
+<img 
+    align="center" 
+    alt="NestJS"
+    title="NestJS" 
+    width=42px;
+    style="padding: 25px;" 
+    src="https://cdn.svglogos.dev/logos/nestjs.svg"
+/>
+<img 
+    align="center" 
+    alt="NodeJS"
+    title="NodeJS" 
+    width=42px;
+    style="padding: 25px;" 
+    src="https://cdn.svglogos.dev/logos/nodejs-icon.svg"
+/>
+<img 
+    align="center" 
+    alt="Laravel"
+    title="Laravel" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://cdn.svglogos.dev/logos/laravel.svg"
+/>
+<img 
+    align="center" 
+    alt="React"
+    title="React" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://cdn.svglogos.dev/logos/react.svg"
+/>
+<img 
+    align="center" 
+    alt="Vite"
+    title="Vite" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://skillicons.dev/icons?i=vite"
+/>
+<img 
+    align="center" 
+    alt="Prisma"
+    title="Prisma" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://skillicons.dev/icons?i=prisma"
 />
 
 - PHP
@@ -45,10 +110,91 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
 
 <img 
     align="center" 
-    alt="Data"
-    title="TechStack" 
-    style="padding: 10px;" 
-    src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,pytorch,py"
+    alt="MongoDB"
+    title="MongoDB" 
+    width=22px;
+    style="padding: 15px;" 
+    src="https://cdn.svglogos.dev/logos/mongodb-icon.svg"
+/>
+<img 
+    align="center" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://cdn.svglogos.dev/logos/postgresql.svg"
+/>
+<img 
+    align="center" 
+    alt="MySQL"
+    title="MySQL" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://cdn.svglogos.dev/logos/mysql-icon.svg"
+/>
+<img 
+    align="center" 
+    alt="Python"
+    title="Python" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://cdn.svglogos.dev/logos/python.svg"
+/>
+<img 
+    align="center" 
+    alt="Pytorch"
+    title="Pytorch" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://skillicons.dev/icons?i=pytorch"
+/>
+<img 
+    align="center" 
+    alt="Numpy"
+    title="Numpy" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://cdn.svglogos.dev/logos/numpy.svg"
+/>
+<img 
+    align="center" 
+    alt="Pandas"
+    title="Pandas" 
+    width=32px;
+    style="padding: 15px;" 
+    src="https://cdn.svglogos.dev/logos/pandas-icon.svg"
+/>
+<img 
+    align="center" 
+    alt="Matplotlib"
+    title="Matplotlib" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://cdn.svglogos.dev/logos/matplotlib-icon.svg"
+/>
+<img 
+    align="center" 
+    alt="Seaborn"
+    title="Seaborn" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://cdn.svglogos.dev/logos/seaborn-icon.svg"
+/>
+<img 
+    align="center" 
+    alt="Claude Code"
+    title="Claude Code" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://cdn.svglogos.dev/logos/claude-icon.svg"
+/>
+<img 
+    align="center" 
+    alt="Codex"
+    title="Codex" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://cdn.svglogos.dev/logos/codex-dark.svg"
 />
 
 - MongoDB
@@ -64,10 +210,51 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
 
 <img 
     align="center" 
-    alt="TechStack"
-    title="TechStack" 
-    style="padding: 10px;" 
-    src="https://skillicons.dev/icons?i=docker,linux,ubuntu,postman,"
+    alt="Docker"
+    title="Docker" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://cdn.svglogos.dev/logos/docker-icon.svg"
+/>
+<img 
+    align="center" 
+    alt="Ubuntu"
+    title="Ubuntu" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://cdn.svglogos.dev/logos/ubuntu.svg"
+/>
+<img 
+    align="center" 
+    alt="Linux"
+    title="Linux" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://skillicons.dev/icons?i=linux"
+/>
+<img 
+    align="center" 
+    alt="Postman"
+    title="Postman" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://cdn.svglogos.dev/logos/postman-icon.svg"
+/>
+<img 
+    align="center" 
+    alt="Bash"
+    title="Bash" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://skillicons.dev/icons?i=bash"
+/>
+<img 
+    align="center" 
+    alt="VSCode"
+    title="VSCode" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://skillicons.dev/icons?i=vscode"
 />
 
 - Docker
@@ -82,23 +269,32 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
 <p align="left">
     <a href="mailto:vitorinacioborgesdev@gmail.com">
         <img 
-            alt="gmail" 
-            title="Gmail" 
-            src="https://skillicons.dev/icons?i=gmail"
-        /> 
+            align="center" 
+            alt="LinkedIn"
+            title="LinkedIn" 
+            width=42px;
+            style="padding: 15px;" 
+            src="https://cdn.svglogos.dev/logos/linkedin-icon.svg"
+        />
     </a>  
     <a href="https://www.linkedin.com/in/vitor-inacio-borges/">
         <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            src="https://skillicons.dev/icons?i=linkedin"
-        /> 
+            align="center" 
+            alt="Gmail"
+            title="Gmail" 
+            width=42px;
+            style="padding: 15px;" 
+            src="https://cdn.svglogos.dev/logos/google-gmail-2020.svg"
+        />
     </a> 
     <a href="https://www.instagram.com/vitor.inaciob/">
         <img 
-            alt="instagram" 
-            title="Instagram" 
+            align="center" 
+            alt="Gmail"
+            title="Gmail" 
+            width=42px;
+            style="padding: 15px;" 
             src="https://skillicons.dev/icons?i=instagram"
-        /> 
+        />
     </a> 
 </p>
