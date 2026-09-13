@@ -283,7 +283,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
 ## 🌐 Contact Me:
 
 <p align="left">
-    <a href="mailto:vitorinacioborgesdev@gmail.com">
+    <a href="https://www.linkedin.com/in/vitor-inacio-borges/">
         <img 
             align="center" 
             alt="LinkedIn"
@@ -293,7 +293,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
             src="https://skillicons.dev/icons?i=linkedin"
         />
     </a>  
-    <a href="https://www.linkedin.com/in/vitor-inacio-borges/">
+    <a href="mailto:vitorinacioborgesdev@gmail.com">
         <img 
             align="center" 
             alt="Gmail"
