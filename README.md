@@ -25,19 +25,19 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
 
 <img 
     align="center" 
-    alt="Javascript"
-    title="Javascript" 
+    alt="Vite"
+    title="Vite" 
     width=42px;
-    style="padding: 25px;" 
-    src="https://cdn.svglogos.dev/logos/javascript.svg"
+    style="padding: 15px;" 
+    src="https://skillicons.dev/icons?i=js"
 />
 <img 
     align="center" 
-    alt="Typescript"
-    title="Typescript" 
+    alt="Vite"
+    title="Vite" 
     width=42px;
-    style="padding: 25px;" 
-    src="https://cdn.svglogos.dev/logos/typescript-icon.svg"
+    style="padding: 15px;" 
+    src="https://skillicons.dev/icons?i=ts"
 />
 <img 
     align="center" 
@@ -49,11 +49,19 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
 />
 <img 
     align="center" 
+    alt="Vite"
+    title="Vite" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://skillicons.dev/icons?i=java"
+/>
+<img 
+    align="center" 
     alt="NestJS"
     title="NestJS" 
     width=42px;
     style="padding: 25px;" 
-    src="https://cdn.svglogos.dev/logos/nestjs.svg"
+    src="https://skillicons.dev/icons?i=nestjs"
 />
 <img 
     align="center" 
@@ -61,7 +69,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
     title="NodeJS" 
     width=42px;
     style="padding: 25px;" 
-    src="https://cdn.svglogos.dev/logos/nodejs-icon.svg"
+    src="https://skillicons.dev/icons?i=nodejs"
 />
 <img 
     align="center" 
@@ -69,7 +77,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
     title="Laravel" 
     width=42px;
     style="padding: 15px;" 
-    src="https://cdn.svglogos.dev/logos/laravel.svg"
+    src="https://skillicons.dev/icons?i=laravel"
 />
 <img 
     align="center" 
@@ -77,7 +85,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
     title="React" 
     width=42px;
     style="padding: 15px;" 
-    src="https://cdn.svglogos.dev/logos/react.svg"
+    src="https://skillicons.dev/icons?i=react"
 />
 <img 
     align="center" 
@@ -94,6 +102,14 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
     width=42px;
     style="padding: 15px;" 
     src="https://skillicons.dev/icons?i=prisma"
+/>
+<img 
+    align="center" 
+    alt="Vite"
+    title="Vite" 
+    width=42px;
+    style="padding: 15px;" 
+    src="https://skillicons.dev/icons?i=spring"
 />
 
 - PHP
@@ -112,9 +128,9 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
     align="center" 
     alt="MongoDB"
     title="MongoDB" 
-    width=22px;
+    width=42px;
     style="padding: 15px;" 
-    src="https://cdn.svglogos.dev/logos/mongodb-icon.svg"
+    src="https://skillicons.dev/icons?i=mongodb"
 />
 <img 
     align="center" 
@@ -122,7 +138,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
     title="PostgreSQL" 
     width=42px;
     style="padding: 15px;" 
-    src="https://cdn.svglogos.dev/logos/postgresql.svg"
+    src="https://skillicons.dev/icons?i=postgres"
 />
 <img 
     align="center" 
@@ -130,7 +146,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
     title="MySQL" 
     width=42px;
     style="padding: 15px;" 
-    src="https://cdn.svglogos.dev/logos/mysql-icon.svg"
+    src="https://skillicons.dev/icons?i=mysql"
 />
 <img 
     align="center" 
@@ -138,7 +154,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
     title="Python" 
     width=42px;
     style="padding: 15px;" 
-    src="https://cdn.svglogos.dev/logos/python.svg"
+    src="https://skillicons.dev/icons?i=py"
 />
 <img 
     align="center" 
@@ -152,7 +168,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
     align="center" 
     alt="Numpy"
     title="Numpy" 
-    width=42px;
+    width=39px;
     style="padding: 15px;" 
     src="https://cdn.svglogos.dev/logos/numpy.svg"
 />
@@ -160,7 +176,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
     align="center" 
     alt="Pandas"
     title="Pandas" 
-    width=32px;
+    width=27px;
     style="padding: 15px;" 
     src="https://cdn.svglogos.dev/logos/pandas-icon.svg"
 />
@@ -168,7 +184,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
     align="center" 
     alt="Matplotlib"
     title="Matplotlib" 
-    width=42px;
+    width=39px;
     style="padding: 15px;" 
     src="https://cdn.svglogos.dev/logos/matplotlib-icon.svg"
 />
@@ -176,7 +192,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
     align="center" 
     alt="Seaborn"
     title="Seaborn" 
-    width=42px;
+    width=39px;
     style="padding: 15px;" 
     src="https://cdn.svglogos.dev/logos/seaborn-icon.svg"
 />
@@ -184,7 +200,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
     align="center" 
     alt="Claude Code"
     title="Claude Code" 
-    width=42px;
+    width=39px;
     style="padding: 15px;" 
     src="https://cdn.svglogos.dev/logos/claude-icon.svg"
 />
@@ -192,7 +208,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
     align="center" 
     alt="Codex"
     title="Codex" 
-    width=42px;
+    width=39px;
     style="padding: 15px;" 
     src="https://cdn.svglogos.dev/logos/codex-dark.svg"
 />
@@ -214,7 +230,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
     title="Docker" 
     width=42px;
     style="padding: 15px;" 
-    src="https://cdn.svglogos.dev/logos/docker-icon.svg"
+    src="https://skillicons.dev/icons?i=docker"
 />
 <img 
     align="center" 
@@ -222,7 +238,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
     title="Ubuntu" 
     width=42px;
     style="padding: 15px;" 
-    src="https://cdn.svglogos.dev/logos/ubuntu.svg"
+    src="https://skillicons.dev/icons?i=ubuntu"
 />
 <img 
     align="center" 
@@ -238,7 +254,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
     title="Postman" 
     width=42px;
     style="padding: 15px;" 
-    src="https://cdn.svglogos.dev/logos/postman-icon.svg"
+    src="https://skillicons.dev/icons?i=postman"
 />
 <img 
     align="center" 
@@ -274,7 +290,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
             title="LinkedIn" 
             width=42px;
             style="padding: 15px;" 
-            src="https://cdn.svglogos.dev/logos/linkedin-icon.svg"
+            src="https://skillicons.dev/icons?i=linkedin"
         />
     </a>  
     <a href="https://www.linkedin.com/in/vitor-inacio-borges/">
@@ -284,7 +300,7 @@ On my free time I enjoy getting to know AI tools properly by searching for techn
             title="Gmail" 
             width=42px;
             style="padding: 15px;" 
-            src="https://cdn.svglogos.dev/logos/google-gmail-2020.svg"
+            src="https://skillicons.dev/icons?i=gmail"
         />
     </a> 
     <a href="https://www.instagram.com/vitor.inaciob/">
